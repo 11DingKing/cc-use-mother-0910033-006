@@ -1,0 +1,6 @@
+[project]
+name = "domain-contract-0910033-006"
+version = "0.1.0"
+description = "双边成交确认撤销的领域约定与校验工具"
+requires-python = ">=3.11"
+dependencies = []
